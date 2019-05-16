@@ -23,3 +23,12 @@ if (!defined('WPINC')) {
     die;
 }
 
+function mailgo_adding_scripts()
+{
+
+    wp_register_script('mailgo_script', plugins_url('dist/mailgo.min.js', __FILE__), array(), '0.3.2', true);
+    wp_enqueue_script('mailgo_script');
+
+}
+
+add_action('wp_enqueue_scripts', 'mailgo_adding_scripts');
