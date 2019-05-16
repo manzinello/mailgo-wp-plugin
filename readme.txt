@@ -12,7 +12,9 @@ mailgo, a different mailto
 
 == Description ==
 
-...
+mailgo (https://mailgo.js.org) for WordPress
+
+Instead of the classic behaviour of mailto links, mailgo will show a modal with more possibilities (like, for example, to copy the email address...)
 
 **This plugin is WIP!**
 
