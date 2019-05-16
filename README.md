@@ -1,0 +1,3 @@
+# 💌 mailgo WordPress plugin
+
+WIP
