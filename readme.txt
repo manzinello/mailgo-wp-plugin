@@ -25,7 +25,7 @@ Instead of the classic behaviour of mailto links, mailgo will show a modal with 
 
 == Screenshots ==
 
-1. ...
+1. mailgo modal
 
 == Changelog ==
 
