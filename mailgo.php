@@ -2,13 +2,13 @@
 /**
  * mailgo, a different mailto
  *
- * @link              https://github.com/manzinello/mailgo-wp-plugin
+ * @link              https://mailgo.js.org
  * @since             0.3.3
  * @package           mailgo
  *
  * @wordpress-plugin
  * Plugin Name:       mailgo
- * Plugin URI:        https://github.com/manzinello/mailgo-wp-plugin
+ * Plugin URI:        https://mailgo.js.org
  * Text Domain:       mailgo
  * Description:       a different mailto: more possibilities, less spam
  * Version:           0.3.3

@@ -12,7 +12,7 @@ mailgo, a different mailto
 
 == Description ==
 
-mailgo (https://mailgo.js.org) for WordPress
+mailgo https://mailgo.js.org for WordPress
 
 **This plugin is WIP!**
 
