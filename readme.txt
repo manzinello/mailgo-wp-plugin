@@ -4,7 +4,7 @@ Tags: mailto, mail
 Requires at least: 4.8
 Tested up to: 5.2
 Requires PHP: 5.2.4
-Stable tag: 0.4.5
+Stable tag: 0.4.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ mailgo, a different mailto
 
 == Description ==
 
-mailgo https://mailgo.js.org for WordPress
+mailgo [https://mailgo.js.org](https://mailgo.js.org) for WordPress
 
 **This plugin is WIP!**
 
@@ -28,6 +28,9 @@ Instead of the classic behaviour of mailto links, mailgo will show a modal with 
 1. mailgo modal
 
 == Changelog ==
+
+= 0.4.7 =
+mailgo 0.4.7 (bug fix)
 
 = 0.4.5 =
 mailgo 0.4.5 (css fix)
