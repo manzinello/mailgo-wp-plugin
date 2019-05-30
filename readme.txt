@@ -4,7 +4,7 @@ Tags: mailto, mail
 Requires at least: 4.8
 Tested up to: 5.2
 Requires PHP: 5.2.4
-Stable tag: 0.6.0
+Stable tag: 0.6.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,6 +28,9 @@ Instead of the classic behaviour of mailto links, mailgo will show a modal with 
 1. mailgo modal
 
 == Changelog ==
+
+= 0.6.3 =
+mailgo 0.6.3 (bug fix and support to multiple email addresses)
 
 = 0.6.0 =
 mailgo 0.6.0 (bug fix and webpack!)
