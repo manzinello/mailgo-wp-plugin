@@ -14,8 +14,8 @@
  * Version:           0.6.4
  * Author:            Matteo Manzinello
  * Author URI:        https://matteomanzinello.com
- * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * License:           MIT
+ * License URI:       https://github.com/manzinello/mailgo-wp-plugin/blob/master/LICENSE
  */
 
 // If this file is called directly, abort.
