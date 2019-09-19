@@ -1,6 +1,6 @@
 === mailgo ===
 Contributors: manzinello
-Tags: mailto, mail
+Tags: mailto, mail, gmail, outlook, telegram, whatsapp, skype
 Requires at least: 4.8
 Tested up to: 5.2
 Requires PHP: 5.2.4
