@@ -4,7 +4,7 @@ Tags: mailto, mail
 Requires at least: 4.8
 Tested up to: 5.2
 Requires PHP: 5.2.4
-Stable tag: 0.6.7
+Stable tag: 0.7.3
 License: MIT
 License URI: https://github.com/manzinello/mailgo-wp-plugin/blob/master/LICENSE
 
@@ -16,7 +16,11 @@ mailgo [https://mailgo.js.org](https://mailgo.js.org) for WordPress
 
 **This plugin is WIP!**
 
-Instead of the classic behaviour of mailto links, mailgo will show a modal with more possibilities (like, for example, to copy the email address...)
+Instead of the classic behaviour of mailto and tel links, mailgo will show a modal with more possibilities
+
+For mailto links there is the possibility to open Gmail, Outlook or copy the email address
+
+For tel links you can open Telegram, WhatsApp, Skype or copy the phone number!
 
 == Installation ==
 
@@ -25,9 +29,13 @@ Instead of the classic behaviour of mailto links, mailgo will show a modal with 
 
 == Screenshots ==
 
-1. mailgo modal
+1. mailgo modal for mailto
+1. mailgo modal for tel
 
 == Changelog ==
+
+= 0.7.3 =
+mailgo 0.7.3... now also for tel: links!
 
 = 0.6.7 =
 mailgo 0.6.7 (css fix)
