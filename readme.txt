@@ -2,13 +2,13 @@
 Contributors: manzinello
 Tags: mailto, mail, gmail, outlook, telegram, whatsapp, skype
 Requires at least: 4.8
-Tested up to: 5.2
+Tested up to: 5.3
 Requires PHP: 5.2.4
 Stable tag: 0.7.7
 License: MIT
 License URI: https://github.com/manzinello/mailgo-wp-plugin/blob/master/LICENSE
 
-mailgo, a different mailto
+mailgo, a different mailto and another tel
 
 == Description ==
 
