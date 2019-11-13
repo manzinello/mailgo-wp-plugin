@@ -3,7 +3,7 @@
  * mailgo, a different mailto
  *
  * @link              https://mailgo.js.org
- * @since             0.8.1
+ * @since             0.8.2
  * @package           mailgo
  *
  * @wordpress-plugin
@@ -11,7 +11,7 @@
  * Plugin URI:        https://mailgo.js.org
  * Text Domain:       mailgo
  * Description:       a different mailto and another tel
- * Version:           0.8.1
+ * Version:           0.8.2
  * Author:            Matteo Manzinello
  * Author URI:        https://matteomanzinello.com
  * License:           MIT
@@ -25,7 +25,7 @@ if (!defined('WPINC')) {
 
 function mailgo_adding_scripts()
 {
-    wp_register_script('mailgo_script', plugins_url('dist/mailgo.min.js', __FILE__), array(), '0.8.1', true);
+    wp_register_script('mailgo_script', plugins_url('dist/mailgo.min.js', __FILE__), array(), '0.8.2', true);
     wp_enqueue_script('mailgo_script');
 }
 
