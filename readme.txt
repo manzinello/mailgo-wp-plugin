@@ -2,9 +2,9 @@
 Contributors: manzinello
 Tags: mailto, mail, gmail, outlook, telegram, whatsapp, skype
 Requires at least: 4.8
-Tested up to: 5.3
+Tested up to: 5.4.2
 Requires PHP: 5.2.4
-Stable tag: 0.8.3
+Stable tag: 0.9.2
 License: MIT
 License URI: https://github.com/manzinello/mailgo-wp-plugin/blob/master/LICENSE
 
@@ -33,6 +33,9 @@ For tel links you can open Telegram, WhatsApp, Skype or copy the phone number!
 1. mailgo modal for tel
 
 == Changelog ==
+
+= 0.9.2 =
+mailgo 0.9.2: translations and more!
 
 = 0.8.3 =
 mailgo 0.8.3, lighter and faster!
