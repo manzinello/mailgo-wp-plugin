@@ -31,6 +31,8 @@ For `tel:` links you can open Telegram, WhatsApp, Skype or copy the phone number
 
 1. mailgo modal for mailto
 2. mailgo modal for tel
+3. mailgo modal for mailto (dark mode)
+4. mailgo modal for tel (dark mode)
 
 == Changelog ==
 
