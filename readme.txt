@@ -20,6 +20,8 @@ For `mailto:` links there is the possibility to open Gmail, Outlook or copy the 
 
 For `tel:` links you can open Telegram, WhatsApp, Skype or copy the phone number!
 
+Demo: https://youtu.be/t9NroHWZ6Gg
+
 **Mailgo project is WIP!**
 
 == Installation ==
