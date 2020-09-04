@@ -4,7 +4,7 @@ Tags: mailto, mail, gmail, outlook, telegram, whatsapp, skype
 Requires at least: 4.8
 Tested up to: 5.5
 Requires PHP: 5.2.4
-Stable tag: 0.9.15
+Stable tag: 0.9.16
 License: MIT
 License URI: https://github.com/manzinello/mailgo-wp-plugin/blob/master/LICENSE
 
@@ -16,7 +16,7 @@ mailgo [https://mailgo.dev](https://mailgo.dev) for WordPress
 
 Instead of the classic behaviour of mailto and tel links, mailgo will show a modal with more possibilities!
 
-For `mailto:` links there is the possibility to open Gmail, Outlook or copy the email address
+For `mailto:` links there is the possibility to open Gmail, Outlook, Yahoo Mail or copy the email address
 
 For `tel:` links you can open Telegram, WhatsApp, Skype or copy the phone number!
 
@@ -37,6 +37,9 @@ Demo: https://youtu.be/t9NroHWZ6Gg
 4. mailgo modal for tel (dark mode)
 
 == Changelog ==
+
+= 0.9.16 =
+mailgo 0.9.16: bug fix, new languages, Yahoo Mail as an option for mailto links
 
 = 0.9.15 =
 mailgo 0.9.15: bug fix and a lot of new languages
