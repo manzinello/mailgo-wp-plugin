@@ -38,6 +38,9 @@ Demo: https://youtu.be/t9NroHWZ6Gg
 
 == Changelog ==
 
+= 0.9.17 =
+mailgo 0.9.17: bug fix, possibility to exclude actions, window config
+
 = 0.9.16 =
 mailgo 0.9.16: bug fix, new languages, Yahoo Mail as an option for mailto links
 
