@@ -4,7 +4,7 @@ Tags: mailto, mail, gmail, outlook, telegram, whatsapp, skype
 Requires at least: 4.8
 Tested up to: 5.5
 Requires PHP: 5.2.4
-Stable tag: 0.9.18
+Stable tag: 0.10.0
 License: MIT
 License URI: https://github.com/manzinello/mailgo-wp-plugin/blob/master/LICENSE
 
@@ -22,8 +22,6 @@ For `tel:` links you can open Telegram, WhatsApp, Skype or copy the phone number
 
 Demo: https://www.youtube.com/watch?v=rCx8lUZjPVE
 
-**Mailgo project is WIP!**
-
 == Installation ==
 
 1. Extract and upload `mailgo.zip` to the `/wp-content/plugins/` directory
@@ -37,6 +35,9 @@ Demo: https://www.youtube.com/watch?v=rCx8lUZjPVE
 4. mailgo modal for tel (dark mode)
 
 == Changelog ==
+
+= 0.10.0 =
+mailgo 0.10.0: bug fix, stronger compatibility with IE, window functions, direct render and new webpack 5
 
 = 0.9.18 =
 mailgo 0.9.18: bug fix, now mailgo is compatible with IE
