@@ -9,7 +9,7 @@ window.mailgo =
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(476);
 var ___CSS_LOADER_EXPORT___ = ___CSS_LOADER_API_IMPORT___(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, ".m-modal{position:fixed;top:0;right:0;bottom:0;left:0;justify-content:center;align-items:center;flex-direction:column;overflow:hidden;font-size:16.5px;z-index:10000}.m-modal p,.m-modal span,.m-modal strong,.m-modal a{margin:0;padding:0;font-size:100%;line-height:1;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\";text-rendering:optimizeLegibility}.m-modal strong{font-weight:700}.m-modal .m-modal-back{position:absolute;z-index:10001;top:0;right:0;bottom:0;left:0;background-color:#20232a;opacity:.8}.m-modal .m-modal-content{position:relative;z-index:10002;box-sizing:content-box;text-align:center;min-width:200px;max-width:240px;background-color:#fff;opacity:.95;border-radius:20px;box-shadow:0 3px 20px rgba(32,35,42,.5);color:#4a4a4a;display:flex;flex-direction:column;overflow:auto;padding:24px;transition:.5s box-shadow}.m-modal .m-modal-content:hover,.m-modal .m-modal-content:focus,.m-modal .m-modal-content:active{opacity:1}.m-modal .m-modal-content .m-title{margin-bottom:8px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;line-height:1.2em}.m-modal .m-modal-content .m-details{margin-bottom:10px}.m-modal .m-modal-content .m-details p{font-size:12px;margin-top:3px;margin-bottom:3px}.m-modal .m-modal-content a{cursor:pointer;padding:10px;color:#4a4a4a;border-radius:20px;text-decoration:none}.m-modal .m-modal-content a.m-gmail{color:#c0372a}.m-modal .m-modal-content a.m-gmail:hover,.m-modal .m-modal-content a.m-gmail:focus,.m-modal .m-modal-content a.m-gmail:active{background-color:rgba(192,55,42,.08);color:#c0372a}.m-modal .m-modal-content a.m-outlook{color:#0967aa}.m-modal .m-modal-content a.m-outlook:hover,.m-modal .m-modal-content a.m-outlook:focus,.m-modal .m-modal-content a.m-outlook:active{background-color:rgba(9,103,170,.08);color:#0967aa}.m-modal .m-modal-content a.m-yahoo{color:#4a00a0}.m-modal .m-modal-content a.m-yahoo:hover,.m-modal .m-modal-content a.m-yahoo:focus,.m-modal .m-modal-content a.m-yahoo:active{background-color:rgba(74,0,160,.08);color:#4a00a0}.m-modal .m-modal-content a.m-tg{color:#086da0}.m-modal .m-modal-content a.m-tg:hover,.m-modal .m-modal-content a.m-tg:focus,.m-modal .m-modal-content a.m-tg:active{background-color:rgba(8,109,160,.08);color:#086da0}.m-modal .m-modal-content a.m-wa{color:#067466}.m-modal .m-modal-content a.m-wa:hover,.m-modal .m-modal-content a.m-wa:focus,.m-modal .m-modal-content a.m-wa:active{background-color:rgba(6,116,102,.08);color:#067466}.m-modal .m-modal-content a.m-skype{color:#076d92}.m-modal .m-modal-content a.m-skype:hover,.m-modal .m-modal-content a.m-skype:focus,.m-modal .m-modal-content a.m-skype:active{background-color:rgba(7,109,146,.08);color:#076d92}.m-modal .m-modal-content a.m-copy{padding:16px 10px;font-size:16px}.m-modal .m-modal-content a.m-default:hover,.m-modal .m-modal-content a.m-default:focus,.m-modal .m-modal-content a.m-default:active,.m-modal .m-modal-content a.m-copy:hover,.m-modal .m-modal-content a.m-copy:focus,.m-modal .m-modal-content a.m-copy:active{background-color:rgba(0,0,0,.08);color:#4a4a4a}.m-modal .m-modal-content a.m-by{font-size:12px;margin-top:.8rem;padding:5px;color:#4a4a4a}.m-modal .m-modal-content a.m-by:hover,.m-modal .m-modal-content a.m-by:focus,.m-modal .m-modal-content a.m-by:active{color:#3d3d3d}.m-modal .m-modal-content .w-500{font-weight:500}.m-modal.m-dark .m-modal-content{background-color:#20232a}.m-modal.m-dark .m-modal-content,.m-modal.m-dark .m-modal-content p,.m-modal.m-dark .m-modal-content p span,.m-modal.m-dark .m-modal-content strong{color:#fff}.m-modal.m-dark .m-modal-content a{color:#eaeaea}.m-modal.m-dark .m-modal-content a:not(.m-by):hover,.m-modal.m-dark .m-modal-content a:not(.m-by):focus,.m-modal.m-dark .m-modal-content a:not(.m-by):active{background-color:rgba(134,134,134,.08);color:#eaeaea}.m-modal.m-dark .m-modal-content a.m-gmail{color:#e07d73}.m-modal.m-dark .m-modal-content a.m-gmail:hover,.m-modal.m-dark .m-modal-content a.m-gmail:focus,.m-modal.m-dark .m-modal-content a.m-gmail:active{background-color:rgba(224,125,115,.08);color:#e07d73}.m-modal.m-dark .m-modal-content a.m-outlook{color:#4c9cd7}.m-modal.m-dark .m-modal-content a.m-outlook:hover,.m-modal.m-dark .m-modal-content a.m-outlook:focus,.m-modal.m-dark .m-modal-content a.m-outlook:active{background-color:rgba(76,156,215,.08);color:#4c9cd7}.m-modal.m-dark .m-modal-content a.m-yahoo{color:#ac88d3}.m-modal.m-dark .m-modal-content a.m-yahoo:hover,.m-modal.m-dark .m-modal-content a.m-yahoo:focus,.m-modal.m-dark .m-modal-content a.m-yahoo:active{background-color:rgba(172,136,211,.08);color:#ac88d3}.m-modal.m-dark .m-modal-content a.m-tg{color:#4cabdb}.m-modal.m-dark .m-modal-content a.m-tg:hover,.m-modal.m-dark .m-modal-content a.m-tg:focus,.m-modal.m-dark .m-modal-content a.m-tg:active{background-color:rgba(76,171,219,.08);color:#4cabdb}.m-modal.m-dark .m-modal-content a.m-wa{color:#4cd2c0}.m-modal.m-dark .m-modal-content a.m-wa:hover,.m-modal.m-dark .m-modal-content a.m-wa:focus,.m-modal.m-dark .m-modal-content a.m-wa:active{background-color:rgba(76,210,192,.08);color:#4cd2c0}.m-modal.m-dark .m-modal-content a.m-skype{color:#4cc7f4}.m-modal.m-dark .m-modal-content a.m-skype:hover,.m-modal.m-dark .m-modal-content a.m-skype:focus,.m-modal.m-dark .m-modal-content a.m-skype:active{background-color:rgba(76,199,244,.08);color:#4cc7f4}.m-modal.m-dark .m-modal-content a.m-by:hover,.m-modal.m-dark .m-modal-content a.m-by:focus,.m-modal.m-dark .m-modal-content a.m-by:active{color:#fff}", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, ".m-modal{position:fixed;top:0;right:0;bottom:0;left:0;justify-content:center;align-items:center;flex-direction:column;overflow:hidden;font-size:16.5px;z-index:10000}.m-modal p,.m-modal span,.m-modal strong,.m-modal a{margin:0;padding:0;font-size:100%;line-height:1;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\";text-rendering:optimizeLegibility}.m-modal strong{font-weight:700}.m-modal .m-modal-back{position:absolute;z-index:10001;top:0;right:0;bottom:0;left:0;background-color:#20232a;opacity:.8}.m-modal .m-modal-content{position:relative;z-index:10002;box-sizing:content-box;text-align:center;min-width:200px;max-width:240px;background-color:#fff;opacity:.95;border-radius:20px;box-shadow:0 3px 20px rgba(32,35,42,.5);border:3px solid #333;color:#4a4a4a;display:flex;flex-direction:column;overflow:auto;padding:24px;transition:.5s box-shadow}.m-modal .m-modal-content:hover,.m-modal .m-modal-content:focus,.m-modal .m-modal-content:active{opacity:1}.m-modal .m-modal-content .m-title{margin-bottom:8px;overflow:hidden;white-space:pre;text-overflow:ellipsis;line-height:1.2em}.m-modal .m-modal-content .m-details{margin-bottom:10px}.m-modal .m-modal-content .m-details p{white-space:pre;font-size:12px;margin-top:3px;margin-bottom:3px}.m-modal .m-modal-content a{cursor:pointer;padding:10px;color:#4a4a4a;border-radius:20px;text-decoration:none}.m-modal .m-modal-content a.m-gmail{color:#c0372a}.m-modal .m-modal-content a.m-gmail:hover,.m-modal .m-modal-content a.m-gmail:focus,.m-modal .m-modal-content a.m-gmail:active{background-color:rgba(192,55,42,.08);color:#c0372a}.m-modal .m-modal-content a.m-outlook{color:#0967aa}.m-modal .m-modal-content a.m-outlook:hover,.m-modal .m-modal-content a.m-outlook:focus,.m-modal .m-modal-content a.m-outlook:active{background-color:rgba(9,103,170,.08);color:#0967aa}.m-modal .m-modal-content a.m-yahoo{color:#4a00a0}.m-modal .m-modal-content a.m-yahoo:hover,.m-modal .m-modal-content a.m-yahoo:focus,.m-modal .m-modal-content a.m-yahoo:active{background-color:rgba(74,0,160,.08);color:#4a00a0}.m-modal .m-modal-content a.m-tg{color:#086da0}.m-modal .m-modal-content a.m-tg:hover,.m-modal .m-modal-content a.m-tg:focus,.m-modal .m-modal-content a.m-tg:active{background-color:rgba(8,109,160,.08);color:#086da0}.m-modal .m-modal-content a.m-wa{color:#067466}.m-modal .m-modal-content a.m-wa:hover,.m-modal .m-modal-content a.m-wa:focus,.m-modal .m-modal-content a.m-wa:active{background-color:rgba(6,116,102,.08);color:#067466}.m-modal .m-modal-content a.m-skype{color:#076d92}.m-modal .m-modal-content a.m-skype:hover,.m-modal .m-modal-content a.m-skype:focus,.m-modal .m-modal-content a.m-skype:active{background-color:rgba(7,109,146,.08);color:#076d92}.m-modal .m-modal-content a.m-copy{padding:16px 10px;font-size:16px}.m-modal .m-modal-content a.m-default:hover,.m-modal .m-modal-content a.m-default:focus,.m-modal .m-modal-content a.m-default:active,.m-modal .m-modal-content a.m-copy:hover,.m-modal .m-modal-content a.m-copy:focus,.m-modal .m-modal-content a.m-copy:active{background-color:rgba(0,0,0,.08);color:#4a4a4a}.m-modal .m-modal-content a.m-by{font-size:12px;margin-top:.8rem;padding:5px;color:#4a4a4a}.m-modal .m-modal-content a.m-by:hover,.m-modal .m-modal-content a.m-by:focus,.m-modal .m-modal-content a.m-by:active{color:#3d3d3d}.m-modal .m-modal-content .w-500{font-weight:500}.m-modal.m-dark .m-modal-content{background-color:#20232a}.m-modal.m-dark .m-modal-content,.m-modal.m-dark .m-modal-content p,.m-modal.m-dark .m-modal-content p span,.m-modal.m-dark .m-modal-content strong{color:#fff}.m-modal.m-dark .m-modal-content a{color:#eaeaea}.m-modal.m-dark .m-modal-content a:not(.m-by):hover,.m-modal.m-dark .m-modal-content a:not(.m-by):focus,.m-modal.m-dark .m-modal-content a:not(.m-by):active{background-color:rgba(134,134,134,.08);color:#eaeaea}.m-modal.m-dark .m-modal-content a.m-gmail{color:#e07d73}.m-modal.m-dark .m-modal-content a.m-gmail:hover,.m-modal.m-dark .m-modal-content a.m-gmail:focus,.m-modal.m-dark .m-modal-content a.m-gmail:active{background-color:rgba(224,125,115,.08);color:#e07d73}.m-modal.m-dark .m-modal-content a.m-outlook{color:#4c9cd7}.m-modal.m-dark .m-modal-content a.m-outlook:hover,.m-modal.m-dark .m-modal-content a.m-outlook:focus,.m-modal.m-dark .m-modal-content a.m-outlook:active{background-color:rgba(76,156,215,.08);color:#4c9cd7}.m-modal.m-dark .m-modal-content a.m-yahoo{color:#ac88d3}.m-modal.m-dark .m-modal-content a.m-yahoo:hover,.m-modal.m-dark .m-modal-content a.m-yahoo:focus,.m-modal.m-dark .m-modal-content a.m-yahoo:active{background-color:rgba(172,136,211,.08);color:#ac88d3}.m-modal.m-dark .m-modal-content a.m-tg{color:#4cabdb}.m-modal.m-dark .m-modal-content a.m-tg:hover,.m-modal.m-dark .m-modal-content a.m-tg:focus,.m-modal.m-dark .m-modal-content a.m-tg:active{background-color:rgba(76,171,219,.08);color:#4cabdb}.m-modal.m-dark .m-modal-content a.m-wa{color:#4cd2c0}.m-modal.m-dark .m-modal-content a.m-wa:hover,.m-modal.m-dark .m-modal-content a.m-wa:focus,.m-modal.m-dark .m-modal-content a.m-wa:active{background-color:rgba(76,210,192,.08);color:#4cd2c0}.m-modal.m-dark .m-modal-content a.m-skype{color:#4cc7f4}.m-modal.m-dark .m-modal-content a.m-skype:hover,.m-modal.m-dark .m-modal-content a.m-skype:focus,.m-modal.m-dark .m-modal-content a.m-skype:active{background-color:rgba(76,199,244,.08);color:#4cc7f4}.m-modal.m-dark .m-modal-content a.m-by:hover,.m-modal.m-dark .m-modal-content a.m-by:focus,.m-modal.m-dark .m-modal-content a.m-by:active{color:#fff}", ""]);
 // Exports
 module.exports = ___CSS_LOADER_EXPORT___;
 
@@ -111,7 +111,7 @@ module.exports = function (cssWithMappingToString) {
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ../src/constants.ts
+;// CONCATENATED MODULE: ../src/constants.ts
 // links
 var MAILTO = "mailto:";
 var MAILGO = "mailgo:";
@@ -137,8 +137,11 @@ var spanHTMLTag = "span";
 var aHTMLTag = "a";
 var pHTMLTag = "p"; // default lang
 
-var defaultLang = "en";
-// CONCATENATED MODULE: ../src/utils.ts
+var defaultLang = "en"; // useful regexp
+
+var notNumber = new RegExp("[^0-9/]", "gi");
+var leadingZeros = new RegExp("^0+", "gi");
+;// CONCATENATED MODULE: ../src/utils.ts
 // validate a single email with regex
 var validateEmail = function validateEmail(email) {
   return /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/.test(email);
@@ -149,7 +152,7 @@ var validateEmails = function validateEmails(arr) {
 }; // validate a single tel with regex
 
 var validateTel = function validateTel(tel) {
-  return /^[+]{0,1}[\s0-9]{0,}[(]{0,1}[0-9]{1,4}[)]{0,1}[-\s\./0-9]*$/.test(tel);
+  return /^[+]{0,1}[\s0-9]*[(]{0,1}[0-9]{1,4}[)]{0,1}[-\s\./0-9]*[p]{0,1}[\s0-9]*$/.test(tel);
 }; // copy of a string
 
 var copyToClipboard = function copyToClipboard(str) {
@@ -192,11 +195,11 @@ var leaveFirstLink = function leaveFirstLink(e) {
     e.target.closest("div").querySelector("a:last-of-type").focus();
   }
 };
-// CONCATENATED MODULE: ../i18n/languages.json
+;// CONCATENATED MODULE: ../i18n/languages.json
 var languages_namespaceObject = JSON.parse("[\"en\",\"it\",\"es\",\"de\",\"fr\",\"pt\",\"nl\",\"ru\",\"sv\",\"no\",\"dk\",\"is\",\"zh\"]");
-// CONCATENATED MODULE: ../i18n/translations.json
+;// CONCATENATED MODULE: ../i18n/translations.json
 var translations_namespaceObject = JSON.parse("{\"en\":{\"open_in_\":\"open in \",\"cc_\":\"cc \",\"bcc_\":\"bcc \",\"subject_\":\"subject \",\"body_\":\"body \",\"gmail\":\"Gmail\",\"outlook\":\"Outlook\",\"yahoo\":\"Yahoo Mail\",\"telegram\":\"Telegram\",\"whatsapp\":\"WhatsApp\",\"skype\":\"Skype\",\"call\":\"call\",\"open\":\"open\",\"_default\":\" default\",\"_as_default\":\" as default\",\"copy\":\"copy\",\"copied\":\"copied\"},\"it\":{\"open_in_\":\"apri con \",\"bcc_\":\"ccn \",\"subject_\":\"oggetto \",\"body_\":\"testo \",\"call\":\"chiama\",\"open\":\"apri\",\"_default\":\" \",\"_as_default\":\" \",\"copy\":\"copia\",\"copied\":\"copiato\"},\"es\":{\"open_in_\":\"abrir con \",\"bcc_\":\"cco \",\"subject_\":\"asunto \",\"body_\":\"cuerpo \",\"call\":\"llamar\",\"open\":\"abrir\",\"_default\":\" predefinido\",\"_as_default\":\" por defecto\",\"copy\":\"copiar\",\"copied\":\"copiado\"},\"de\":{\"open_in_\":\"Öffnen in \",\"subject_\":\"Betreff \",\"body_\":\"Nachricht \",\"call\":\"Anrufen\",\"open\":\"Öffnen\",\"_default\":\" mit Standard\",\"_as_default\":\" mit Standard\",\"copy\":\"kopieren\",\"copied\":\"kopiert\"},\"pt\":{\"open_in_\":\"abrir com \",\"bcc_\":\"cco \",\"subject_\":\"assunto \",\"body_\":\"corpo \",\"call\":\"ligar\",\"open\":\"abrir\",\"_default\":\" padrão\",\"_as_default\":\" por padrão\",\"copy\":\"copiar\",\"copied\":\"copiado\"},\"fr\":{\"open_in_\":\"Ouvrir dans \",\"bcc_\":\"cci \",\"subject_\":\"sujet \",\"body_\":\"contenu \",\"call\":\"Appeler\",\"open\":\"Ouvrir\",\"_default\":\" par défaut\",\"_as_default\":\" par défaut\",\"copy\":\"Copier\",\"copied\":\"copié\"},\"nl\":{\"subject_\":\"onderwerp \",\"body_\":\"bericht \",\"call\":\"bellen\",\"open\":\"openen\",\"_default\":\" standaard\",\"_as_default\":\" als standaard\",\"copy\":\"kopiëren\"},\"ru\":{\"open_in_\":\"открыть в \",\"subject_\":\"тема \",\"body_\":\"тело \",\"call\":\"позвонить\",\"open\":\"открыть\",\"_default\":\" по умолчанию\",\"_as_default\":\" по умолчанию\",\"copy\":\"скопировать\"},\"sv\":{\"open_in_\":\"öppna i \",\"subject_\":\"ämne \",\"body_\":\"meddelandetext \",\"call\":\"ring\",\"open\":\"öppna\",\"_default\":\" förval\",\"_as_default\":\" som förval\",\"copy\":\"kopiera\",\"copied\":\"kopierad\"},\"no\":{\"open_in_\":\"åpne i \",\"subject_\":\"emne \",\"call\":\"ringe\",\"open\":\"åpne\",\"_as_default\":\" som standard\",\"copy\":\"kopiere\",\"copied\":\"kopiert\"},\"dk\":{\"open_in_\":\"åpne i \",\"subject_\":\"emne \",\"call\":\"ringe op\",\"open\":\"åben\",\"_as_default\":\" som standard\",\"copy\":\"kopi\",\"copied\":\"kopieret\"},\"is\":{\"open_in_\":\"opið inn \",\"subject_\":\"viðfangsefni \",\"body_\":\"líkami \",\"call\":\"hringja\",\"open\":\"opið\",\"_default\":\" sjálfgefið\",\"_as_default\":\" sem sjálfgefið\",\"copy\":\"afrita\",\"copied\":\"afritað\"},\"zh\":{\"open_in_\":\"開啟 \",\"cc_\":\"副本 \",\"bcc_\":\"密件副本 \",\"subject_\":\"主旨 \",\"body_\":\"內文 \",\"call\":\"通話\",\"open\":\"開啟\",\"_default\":\" 預設\",\"_as_default\":\" 預設\",\"copy\":\"複製\",\"copied\":\"已複製\"}}");
-// CONCATENATED MODULE: ../src/mobile-detect.ts
+;// CONCATENATED MODULE: ../src/mobile-detect.ts
 var userAgent = function userAgent() {
   if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
     return "mobile";
@@ -204,7 +207,7 @@ var userAgent = function userAgent() {
 
   return "desktop";
 };
-// CONCATENATED MODULE: ../src/mailgo.ts
+;// CONCATENATED MODULE: ../src/mailgo.ts
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
 
 function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { _defineProperty(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
@@ -228,10 +231,7 @@ var mailgoCSS = __webpack_require__(801).toString(); // default language
 
 var lang = defaultLang; // default strings
 
-var defaultStrings = translations_namespaceObject[defaultLang]; // useful regexp
-
-var notNumber = new RegExp("[^0-9/]", "gi");
-var leadingZeros = new RegExp("^0+", "gi"); // translation strings
+var defaultStrings = translations_namespaceObject[defaultLang]; // translation strings
 
 var strings; // global mailgo config object
 
@@ -307,7 +307,7 @@ var mailgoInit = function mailgoInit() {
     modalMailto.setAttribute("tabindex", "-1");
     modalMailto.setAttribute("aria-labelledby", "m-title"); // if dark is in config
 
-    if ((_config3 = config) === null || _config3 === void 0 ? void 0 : _config3.dark) {
+    if ((_config3 = config) !== null && _config3 !== void 0 && _config3.dark) {
       enableDarkMode();
     } else {
       disableDarkMode();
@@ -383,7 +383,7 @@ var mailgoInit = function mailgoInit() {
     gmailSpan.appendChild(createTextNode(strings.gmail || defaultStrings.gmail));
     gmail.appendChild(gmailSpan);
 
-    if (mailgoActionEnabled("gmail")) {
+    if (mailgoConfigAttributeEnabled("action", "gmail")) {
       modalContent.appendChild(gmail);
     } // Outlook
 
@@ -399,7 +399,7 @@ var mailgoInit = function mailgoInit() {
     outlookSpan.appendChild(createTextNode(strings.outlook || defaultStrings.outlook));
     outlook.appendChild(outlookSpan);
 
-    if (mailgoActionEnabled("outlook")) {
+    if (mailgoConfigAttributeEnabled("action", "outlook")) {
       modalContent.appendChild(outlook);
     } // Outlook
 
@@ -415,7 +415,7 @@ var mailgoInit = function mailgoInit() {
     yahooSpan.appendChild(createTextNode(strings.yahoo || defaultStrings.yahoo));
     yahoo.appendChild(yahooSpan);
 
-    if (mailgoActionEnabled("yahoo")) {
+    if (mailgoConfigAttributeEnabled("action", "yahoo")) {
       modalContent.appendChild(yahoo);
     } // open default
 
@@ -469,7 +469,7 @@ var mailgoInit = function mailgoInit() {
     modalTel.setAttribute("tabindex", "-1");
     modalTel.setAttribute("aria-labelledby", "m-tel-title"); // if dark is in config
 
-    if ((_config5 = config) === null || _config5 === void 0 ? void 0 : _config5.dark) {
+    if ((_config5 = config) !== null && _config5 !== void 0 && _config5.dark) {
       enableDarkMode();
     } else {
       disableDarkMode();
@@ -523,7 +523,7 @@ var mailgoInit = function mailgoInit() {
     telegramSpan.appendChild(createTextNode(strings.telegram || defaultStrings.telegram));
     telegram.appendChild(telegramSpan);
 
-    if (mailgoActionEnabled("telegram")) {
+    if (mailgoConfigAttributeEnabled("action", "telegram")) {
       _modalContent.appendChild(telegram);
     } // WhatsApp
 
@@ -539,7 +539,7 @@ var mailgoInit = function mailgoInit() {
     waSpan.appendChild(createTextNode(strings.whatsapp || defaultStrings.whatsapp));
     wa.appendChild(waSpan);
 
-    if (mailgoActionEnabled("whatsapp")) {
+    if (mailgoConfigAttributeEnabled("action", "whatsapp")) {
       _modalContent.appendChild(wa);
     } // Skype
 
@@ -555,7 +555,7 @@ var mailgoInit = function mailgoInit() {
     skypeSpan.appendChild(createTextNode(strings.skype || defaultStrings.skype));
     skype.appendChild(skypeSpan);
 
-    if (mailgoActionEnabled("skype")) {
+    if (mailgoConfigAttributeEnabled("action", "skype")) {
       _modalContent.appendChild(skype);
     } // call default
 
@@ -830,7 +830,7 @@ function mailgoPreRender(mailgoElementOrUrl) {
     } // if dark is in config or contained in the element
 
 
-  if (mailgoElement && (((_config9 = config) === null || _config9 === void 0 ? void 0 : _config9.dark) || mailgoElement.classList.contains("dark"))) {
+  if (mailgoElement && ((_config9 = config) !== null && _config9 !== void 0 && _config9.dark || mailgoElement.classList.contains("dark"))) {
     enableDarkMode();
   } else {
     disableDarkMode();
@@ -884,30 +884,30 @@ function mailgoRender() {
 
   if (type === MAILGO_MAIL) {
     // the title of the modal (email address)
-    title.innerHTML = mail.split(",").join("<br/>"); // add the details if provided
+    title.textContent = mail.split(",").join("\n"); // add the details if provided
 
-    if (cc) {
+    if (mailgoConfigAttributeEnabled("detail", "cc") && cc) {
       detailCc.style.display = "block";
-      ccValue.innerHTML = cc.split(",").join("<br/>");
+      ccValue.textContent = cc.split(",").join("\n");
     } else {
       detailCc.style.display = "none";
     }
 
-    if (bcc) {
+    if (mailgoConfigAttributeEnabled("detail", "bcc") && bcc) {
       detailBcc.style.display = "block";
-      bccValue.innerHTML = bcc.split(",").join("<br/>");
+      bccValue.textContent = bcc.split(",").join("\n");
     } else {
       detailBcc.style.display = "none";
     }
 
-    if (subject) {
+    if (mailgoConfigAttributeEnabled("detail", "subject") && subject) {
       detailSubject.style.display = "block";
       subjectValue.textContent = subject;
     } else {
       detailSubject.style.display = "none";
     }
 
-    if (bodyMail) {
+    if (mailgoConfigAttributeEnabled("detail", "body") && bodyMail) {
       detailBody.style.display = "block";
       bodyValue.textContent = bodyMail;
     } else {
@@ -923,9 +923,9 @@ function mailgoRender() {
   } // mailgo tel
   else if (type === MAILGO_TEL) {
       // the title of the modal (tel)
-      titleTel.innerHTML = tel;
+      titleTel.textContent = tel;
 
-      if (msg) {
+      if (mailgoConfigAttributeEnabled("detail", "msg") && msg) {
         detailMsg.style.display = "block";
         msgValue.textContent = msg;
       } else {
@@ -981,9 +981,18 @@ var openGmail = function openGmail(event) {
 };
 
 var openOutlook = function openOutlook(event) {
-  event.preventDefault(); // Outlook url
+  var _config10;
 
-  var outlookUrl = "https://outlook.live.com/owa/?path=/mail/action/compose&to=" + encodeURIComponent(mail); // the details if provided
+  event.preventDefault(); // Outlook starting url
+
+  var startingOutlookUrl = "https://outlook.live.com/owa/?path=/mail/action/compose&to="; // let the user to decide to open Office365 Outlook instead of the classic outlook.live.com
+
+  if ((_config10 = config) !== null && _config10 !== void 0 && _config10.office365) {
+    startingOutlookUrl = "https://outlook.office365.com/owa/?path=/mail/action/compose&to=";
+  } // Outlook url
+
+
+  var outlookUrl = startingOutlookUrl + encodeURIComponent(mail); // the details if provided
 
   if (subject) {
     outlookUrl = outlookUrl.concat("&subject=" + encodeURIComponent(subject));
@@ -1116,12 +1125,12 @@ function getMailgoTypeByElement(element) {
 
   var elementHref = element.getAttribute("href"); // return null if there is no-mailgo in class
 
-  if ((_element$classList = element.classList) === null || _element$classList === void 0 ? void 0 : _element$classList.contains(NO_MAILGO)) {
+  if ((_element$classList = element.classList) !== null && _element$classList !== void 0 && _element$classList.contains(NO_MAILGO)) {
     return null;
   } // the case of classic type of mailgo, like a href=mailto:... or a href=tel:... and the class=mailgo with a useful href
 
 
-  if (elementHref || ((_element$classList2 = element.classList) === null || _element$classList2 === void 0 ? void 0 : _element$classList2.contains("mailgo"))) {
+  if (elementHref || (_element$classList2 = element.classList) !== null && _element$classList2 !== void 0 && _element$classList2.contains("mailgo")) {
     if (validateUrl(elementHref, MAILTO) || validateUrl(elementHref, MAILGO)) {
       // a mailto: or mailgo:
       return {
@@ -1143,7 +1152,7 @@ function getMailgoTypeByElement(element) {
     }
   }
 
-  if (elementHref === "#mailgo" || ((_element$classList3 = element.classList) === null || _element$classList3 === void 0 ? void 0 : _element$classList3.contains("mailgo"))) {
+  if (elementHref === "#mailgo" || (_element$classList3 = element.classList) !== null && _element$classList3 !== void 0 && _element$classList3.contains("mailgo")) {
     // less-spam installation of mailgo, check to the attributes
     if (element.hasAttribute("data-address") && element.hasAttribute("data-domain")) {
       // less-spam mailto with data-address and data-domain
@@ -1280,7 +1289,7 @@ var mailgoIsShowing = function mailgoIsShowing() {
 };
 
 var byElement = function byElement() {
-  // by
+  // by element in the footer
   var by = createElement(aHTMLTag);
   by.href = "https://mailgo.dev?ref=mailgo-modal";
   by.className = "m-by";
@@ -1395,23 +1404,37 @@ var buildLessSpamHref = function buildLessSpamHref(type, parameters) {
   }
 
   return lessSpamHref;
-}; // function to check an action is enabled or not
+}; // function to check an attribute is enabled or not, by default considering it enabled
 
 
-var mailgoActionEnabled = function mailgoActionEnabled(action) {
-  var _config10, _config11;
-
-  // by default all the actions are enabled
+var mailgoConfigAttributeEnabled = function mailgoConfigAttributeEnabled(type, attribute) {
+  // by default all the actions and attribute are enabled
   if (!config) {
     return true;
-  }
+  } // if the attribute type is action consider the actions config attribute
 
-  if (config && !((_config10 = config) === null || _config10 === void 0 ? void 0 : _config10.actions)) {
-    return true;
-  }
 
-  if (config && config.actions && ((_config11 = config) === null || _config11 === void 0 ? void 0 : _config11.actions[action]) === false) {
-    return false;
+  if (type === "action") {
+    var _config11, _config12;
+
+    if (config && !((_config11 = config) !== null && _config11 !== void 0 && _config11.actions)) {
+      return true;
+    }
+
+    if (config && config.actions && ((_config12 = config) === null || _config12 === void 0 ? void 0 : _config12.actions[attribute]) === false) {
+      return false;
+    }
+  } else if (type === "detail") {
+    var _config13, _config14;
+
+    // else consider the details attribute
+    if (config && !((_config13 = config) !== null && _config13 !== void 0 && _config13.details)) {
+      return true;
+    }
+
+    if (config && config.details && ((_config14 = config) === null || _config14 === void 0 ? void 0 : _config14.details[attribute]) === false) {
+      return false;
+    }
   }
 
   return true;
@@ -1419,11 +1442,11 @@ var mailgoActionEnabled = function mailgoActionEnabled(action) {
 
 
 var mailgoSetLanguage = function mailgoSetLanguage() {
-  var _config12;
+  var _config15;
 
   var languageType = "default lang"; // if a language is defined in configuration use it
 
-  if (((_config12 = config) === null || _config12 === void 0 ? void 0 : _config12.lang) && languages_namespaceObject.indexOf(config.lang) !== -1) {
+  if ((_config15 = config) !== null && _config15 !== void 0 && _config15.lang && languages_namespaceObject.indexOf(config.lang) !== -1) {
     lang = config.lang;
     languageType = "config lang";
   } else {
@@ -1466,25 +1489,25 @@ function mailgo(mailgoConfig) {
     config = _objectSpread(_objectSpread({}, mailgoConfig), ((_window = window) === null || _window === void 0 ? void 0 : _window.mailgoConfig) || null); // if the window is defined...
 
     if (typeof window !== "undefined") {
-      var _config13, _config14, _config15, _config16, _config17;
+      var _config16, _config17, _config18, _config19, _config20;
 
       // if is set in config use it (load the mailgo CSS)
-      if (typeof ((_config13 = config) === null || _config13 === void 0 ? void 0 : _config13.loadCSS) !== "undefined") {
+      if (typeof ((_config16 = config) === null || _config16 === void 0 ? void 0 : _config16.loadCSS) !== "undefined") {
         loadCSSConfig = config.loadCSS;
       } // if is set in config use it (enable mailto)
 
 
-      if (typeof ((_config14 = config) === null || _config14 === void 0 ? void 0 : _config14.mailto) !== "undefined") {
+      if (typeof ((_config17 = config) === null || _config17 === void 0 ? void 0 : _config17.mailto) !== "undefined") {
         mailtoEnabled = config.mailto;
       } // if is set in config use it (enable tel)
 
 
-      if (typeof ((_config15 = config) === null || _config15 === void 0 ? void 0 : _config15.tel) !== "undefined") {
+      if (typeof ((_config18 = config) === null || _config18 === void 0 ? void 0 : _config18.tel) !== "undefined") {
         telEnabled = config.tel;
       } // if is set in config use it (enable sms)
 
 
-      if (typeof ((_config16 = config) === null || _config16 === void 0 ? void 0 : _config16.sms) !== "undefined") {
+      if (typeof ((_config19 = config) === null || _config19 === void 0 ? void 0 : _config19.sms) !== "undefined") {
         smsEnabled = config.sms;
       } // if load css enabled load it!
 
@@ -1495,10 +1518,10 @@ function mailgo(mailgoConfig) {
       } // if is set an initEvent add the listener
 
 
-      if ((_config17 = config) === null || _config17 === void 0 ? void 0 : _config17.initEvent) {
-        var _config18;
+      if ((_config20 = config) !== null && _config20 !== void 0 && _config20.initEvent) {
+        var _config21;
 
-        if ((_config18 = config) === null || _config18 === void 0 ? void 0 : _config18.listenerOptions) {
+        if ((_config21 = config) !== null && _config21 !== void 0 && _config21.listenerOptions) {
           // listener options specified
           document.addEventListener(config.initEvent, mailgoInit, config.listenerOptions);
         } else {
@@ -1532,10 +1555,10 @@ if (typeof window !== "undefined") {
 
 
 /* harmony default export */ var src_mailgo = (mailgo);
-// CONCATENATED MODULE: ./mailgo.dist.ts
+;// CONCATENATED MODULE: ./mailgo.dist.ts
 // webpack > dist/mailgo.min.js
 
-;
+
 
 // call init mailgo attached to the event DOMContentLoaded
 const mailgoConfig = {
