@@ -4,7 +4,7 @@ Tags: mailto, mail, gmail, outlook, telegram, whatsapp, skype, mailgo
 Requires at least: 4.8
 Tested up to: 5.5.3
 Requires PHP: 5.2.4
-Stable tag: 0.11.2
+Stable tag: 0.11.3
 License: MIT
 License URI: https://github.com/manzinello/mailgo-wp-plugin/blob/master/LICENSE
 
@@ -35,6 +35,9 @@ Demo: https://www.youtube.com/watch?v=rCx8lUZjPVE
 4. mailgo modal for tel (dark mode)
 
 == Changelog ==
+
+= 0.11.3 =
+mailgo 0.11.3: bug fix
 
 = 0.11.2 =
 mailgo 0.11.2: bug fix, new details/office365 options (in mailgo through window configuration, in WordPress very soon!)

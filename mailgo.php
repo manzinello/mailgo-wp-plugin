@@ -1,9 +1,10 @@
 <?php
+
 /**
  * mailgo, a new concept of mailto and tel links
  *
  * @link              https://mailgo.dev
- * @since             0.11.2
+ * @since             0.11.3
  * @package           mailgo
  *
  * @wordpress-plugin
@@ -11,7 +12,7 @@
  * Plugin URI:        https://mailgo.dev
  * Text Domain:       mailgo
  * Description:       a new concept of mailto and tel links
- * Version:           0.11.2
+ * Version:           0.11.3
  * Author:            Matteo Manzinello
  * Author URI:        https://matteomanzinello.com
  * License:           MIT
@@ -25,7 +26,7 @@ if (!defined('WPINC')) {
 
 function mailgo_adding_scripts()
 {
-    wp_register_script('mailgo_script', plugins_url('dist/mailgo.min.js', __FILE__), array(), '0.11.2', true);
+    wp_register_script('mailgo_script', plugins_url('dist/mailgo.min.js', __FILE__), array(), '0.11.3', true);
     wp_enqueue_script('mailgo_script');
 }
 
